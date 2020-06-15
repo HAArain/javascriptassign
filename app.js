@@ -281,5 +281,199 @@
 // }
 
 
+///////////////////TASK 6 /////////////////////////////////
+
+// var c = 25;
+// var f =(c-32)*5/9;
+// document.write("25c to"+ f );
+
+
+
+// var f = 25;
+// var c = (c*9/5)+32;
+// document.write("25c to"+ c );
+
+
+///////////////////TASK 7 /////////////////////////////////
+
+
+// var a= 650;
+// var q = 3;
+// var p = 100;
+// var qq= 7;
+// var ch = 100;
+// var total = a+q+p+qq+ch;
+// document.write("price of item 1 is " + a + "<br>");
+// document.write("quantity of item 1 is " + q  + "<br>");
+// document.write("price of item 2 is " + p + "<br>");
+// document.write("quantity of item 2 is " + qq + "<br>");
+// document.write("shipping charges " +  ch + "<br>");
+// document.write("<br>");
+
+// document.write("Total Cost Of Your Order " + " " + total );
+
+
+
+//////////////////TASK 8 /////////////////////////////////
+
+
+// var marks = 980;
+// var obtmarks = 804;
+
+// var per = (obtmarks/marks)*100;
+
+// document.write("Total marks " + marks + "<br> " + "obtain marks  "  + obtmarks + " <br>" + "percentage " + per);
+
+
+//////////////////TASK 9 /////////////////////////////////
+
+// var usdollar = 10;
+// var pak = usdollar*104.80;
+// var sr = 25;
+// var p_r = sr*28;
+
+// document.write("us to pasktan rupees " + pak + "<br>");
+// document.write("sr dollar to pak " + p_r)
+
+
+//////////////////TASK 10 /////////////////////////////////
+
+
+// var a = 5 * 10 / 2;
+
+
+//////////////////TASK 11 /////////////////////////////////
+
+
+// var a = 2020;
+// var b = 1997;
+
+// var age = " ";
+
+// age =a-b;
+
+// document.write(" your age is " + age);
+
+
+//////////////////TASK 12 /////////////////////////////////
+
+// var radius = 20;
+// var pi = 3.14;
+// var circum = 2 * pi * radius;
+// var area = pi * radius * radius;
+
+
+// document.write("the radius of circle" + radius + "<br>");
+// document.write("the circumference of circle" + circum + "<br>");
+// document.write("the area of circle" + area + "<br>");
+
+//////////////////TASK 13 /////////////////////////////////
+
+
+// var favouritesnack = "lays";
+// var currentage = 23;
+// var maximumage = 63;
+// var amount = 10;
+// var totalneeded = (amount*365) * (maximumage - currentage);
+
+
+// document.write("favourite snack " + favouritesnack + "<br>");
+// document.write("current age " + currentage + "<br>");
+// document.write("Estimate Maximum age " + maximumage + "<br>");
+// document.write("amount of snack per days" + amount + "<br>");
+// document.write(" you will need" + totalneeded + " lays last to you unitill the rip old age " + maximumage);
+
+
+
+/////////////////////////////////////CHAPTER 06 TO 09///////////////////////////////////////////////
+
+
+/////////////////////////////////////TASK 01///////////////////////////////////////////////
+
+// var a = 10;
+// document .write(" the value of a " + a + "<br>");
+// document.write(".............................................." + "<br><br>");
+
+// var c = ++a;
+// document.write("the value of ++a is " + c + "<br>");
+// document.write("now the value of a is " + c + "<br>");
+// document.write(".............................................." + "<br><br>");
+
+
+
+// var b = a++;
+// document.write("the value of a++ is " + b + "<br>");
+// document.write("now the value of a is " + a + "<br>");
+// document.write(".............................................." + "<br><br>");
+
+
+
+// var d = --a;
+// document.write("the value of a++ is " + d + "<br>");
+// document.write("now the value of a is " + a + "<br>");
+// document.write(".............................................." + "<br><br>");
+
+
+// var e = a--;
+// document.write("the value of a++ is " + e + "<br>");
+// document.write("now the value of a is " + a + "<br>");
+// document.write(".............................................." + "<br><br>");
+
+
+
+/////////////////////////////////////TASK 02///////////////////////////////////////////////
+
+// var a =2;
+// var b = 1;
+// var c = --a - --b + ++b + b--;
+//  result = 3;
+
+// alert(c);
+
+
+/////////////////////////////////////TASK 03///////////////////////////////////////////////
+
+// var a = prompt("enter your name");
+
+// document.write("Assalamoalikum"+ " "+ a);
+
+
+/////////////////////////////////////TASK 04///////////////////////////////////////////////
+
+// var a = +prompt("enter table number");
+
+// for(i=1; i<=10; i ++){
+
+//     document.write( a + " X" + i +  " =" + a*i + "<br>" )
+// }
+
+
+// var subject1 = prompt ('enter subject');
+// var subject2 = prompt ('enter subject');
+// var subject3 = prompt ('enter subject');
+
+// var total_marks = 100;
+
+// var obtained1 = +prompt ('Enter number');
+// var obtained2 = +prompt ('Enter number');
+// var obtained3 = +prompt ('Enter number');
+
+// var percentage1= obtained1/total_marks*100;
+// var percentage2= obtained2/total_marks*100;
+// var percentage3= obtained3/total_marks*100;
+
+// var totalsubjects= obtained1 + obtained2 + obtained3;
+// var totaltotal = total_marks *3;
+// var percentagetotal= percentage1 + percentage2 + percentage3;
+
+// document.write('<br/>'+ 'English'
+//  + "    " +
+// 'Total Marks' + "    " + 
+// 'Obtained Marks' + "    " + 'Percenatge'); 
+// document.write('<br/>' +subject1 + "           " + total_marks + "         " + obtained1 + "           " + percentage1 + "%");
+// document.write('<br/>' +subject2 + "           " + total_marks + "          " + obtained2 + "           " + percentage2+ "%");
+// document.write('<br/>' +subject3 + "           " + total_marks + "          " + obtained3 + "           " + percentage3+ "%");
+// document.write('<br/>' + "         "  + totaltotal+ "       " + totalsubjects + "      " + percentagetotal + "%");
+
 
 
