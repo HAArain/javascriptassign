@@ -1030,3 +1030,161 @@
 // dropdown();
 
 
+////////////////////////////////////////////TASK 17  to 15/////////////////////////////////////////
+
+//////////////////////////////////////TAK 01////////////////////////////////////////////////////
+
+// var a =[
+        
+//           [  ,   ,  ]
+//           [  ,   ,  ]
+//           [  ,   , ]
+
+//          ]; 
+
+      
+//////////////////////////////////////TAK 02////////////////////////////////////////////////////
+
+
+// var a =[
+        
+//           [1 , 2 , 3]
+//           [4 , 5 , 6]
+//           [7 , 8 , 9]
+
+//          ]; 
+
+
+//////////////////////////////////////TAK 03////////////////////////////////////////////////////
+
+// for(i=1; i<=10; i++){
+
+//     document.write(i + "<br>");
+
+// }
+
+//////////////////////////////////////TAK 04////////////////////////////////////////////////////
+
+// var a = +prompt("enter multiplication of table");
+// var b = +prompt("enter length");
+
+// for(i=1; i<=b; i++){
+
+
+//     document.write(a + " X " + i + " = " + a*i + "<br>");
+
+// }
+
+//////////////////////////////////////TAK 05////////////////////////////////////////////////////
+
+// fruits = ['apple', 'banana, mango', 'orange','strawberry'];
+
+// for(i=0; i < fruits.length; i++){
+
+//     document.write(fruits[i] + "<br>");
+// }
+   
+//////////////////////////////////////TAK 06////////////////////////////////////////////////////
+
+// document.write('<h1>COUNTING</h1> </br>');
+
+// for (i=0; i<=15; i++)
+
+// document.write(i);
+
+// document.write('<h1>REVESE COUNTING</h1> </br>');
+
+// for(i=10;  i>0; i--)
+
+// document.write(i);
+
+// document.write('<h1>EVEN NUMBER</h1> </br>');
+
+
+// for (i=0; i<=20; i=i+2){
+
+// document.write(i);
+
+// }
+
+
+// document.write('<h1>odd NUMBER</h1> </br>');
+
+// var i;
+
+// for(i=1; i<20; i=i+2){
+
+//     document.write(i);
+// }
+
+
+// document.write('<h1>plus k</h1> </br>');
+
+// var i;
+
+// for(i=2; i<=20; i=i+2){
+
+//     document.write(i+"k");
+// }
+
+
+
+// var a  = ['cake', 'apple pie', 'cookie', 'chips', 'patties'];
+
+// var b = a.search(prompt("enter your serch"));
+
+// document.write(b);
+
+
+/////////////////////////////////////////TASK 7 ///////////////////////////////
+
+
+// var fruits = ["Banana", "Orange", "Apple", "Mango"];
+// var a = fruits.indexOf(prompt("enter search"));
+// document.write("item is avaliable index of " + a );
+
+/////////////////////////////////////////TASK 8 ///////////////////////////////
+
+// var a = [24, 53, 78, 91, 12];
+
+// document.write(Math.max(...a));
+
+
+
+/////////////////////////////////////////TASK 9 ///////////////////////////////
+
+
+
+// var a = [24, 53, 78, 91, 12];
+
+// document.write(Math.min(...a));
+
+/////////////////////////////////////////TASK 10 ///////////////////////////////
+
+// for(var i=5; i<=100; i=i+5){
+
+//     document.write(i + " ");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
